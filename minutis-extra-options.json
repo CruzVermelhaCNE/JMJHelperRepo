@@ -1,8 +1,18 @@
 {
-  "origine": [
-    "Logistica"
-  ],
-  "motif": [
-    "Montagem PMA"
-  ]
+    "origine": [
+        "Logistica",
+        "Coordenação CVP",
+        "Shuttle",
+        "Relief"
+    ],
+    "motif": [
+        "Montagem PMA",
+        "Desmontagem PMA",
+        "Reposição/Verificação",
+        "Transporte de Pessoas",
+        "Deslocação Oficial",
+        "PCO",
+        "Generico/Outro",
+        "Apoio ao Viagante"
+    ]
 }
